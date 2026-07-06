@@ -1,0 +1,1 @@
+# chicek-disease-detection-end-to-end-project
